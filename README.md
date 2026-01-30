@@ -34,7 +34,7 @@ I specialize in building ML-powered tools, integrating APIs, and optimizing syst
 
 **Master’s Degree in Computer Science**  
 *National University of Life and Environmental Sciences of Ukraine*  
-`2024 – 2025 (In Progress)`
+`2024 – 2025` — Graduated with honors 🏅
 
 **Bachelor’s Degree in Computer Science**  
 *National University of Life and Environmental Sciences of Ukraine*  
